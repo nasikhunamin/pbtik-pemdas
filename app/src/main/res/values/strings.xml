@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Pemdas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="tagline">enjoy learn with pemdas</string>
+    <string name="material">Material</string>
+    <string name="quiz">Quiz</string>
+    <string name="video">Video</string>
+    <string name="index">Grade</string>
+    <string name="message">Message</string>
+    <string name="group">Group</string>
+    <string name="instruction">Instruction</string>
+    <string name="about_app">GRAFIS merupakan aplikasi media pembelajaran untuk mata pelajaran Dasar Desain Grafis. Dalam aplikasi ini terdapat beberapa materi penunjang berupa video, dll untuk mempermudah siswa dalam belajar. Selain itu juga terdapat fitur Kuis menggunakan Speech Recognition</string>
+
+    <!-- <array name="MaterialImage">
+        <item>@drawable/ic_material_thumbnail</item>
+        <item>@drawable/ic_material_thumbnail_v2</item>
+        <item>@drawable/ic_material_thumbnail_v3</item>
+    </array> -->
+    <array name="MaterialImage">
+        <item>@drawable/ic_material_pemdas</item>
+    </array>
+
+    <array name="GroupImage">
+        <item>@drawable/ic_grup_thumbnail</item>
+    </array>
+
+    <array name="MaterialSubtitle">
+        <item>Algoritma Pemrograman</item>
+        <item>Perangkat Lunak Bahasa Pemrograman</item>
+        <item>Struktur Bahasa Pemrograman</item>
+        <item>Tipe Data Variabel dan Konstanta</item>
+        <item>Operasi Aritmatika dan Logika</item>
+        <item>Pernyataan Percabangan</item>
+        <item>Pernyataan Perulangan</item>
+    </array>
+
+    <string-array name="MaterialConten">
+        <item>algoritma_pemrograman.html</item>
+        <item>perangkat_lunak_bahasa_pemrograman.html</item>
+        <item>struktur_data.html</item>
+        <item>tipe_data.html</item>
+        <item>operasi.html</item>
+        <item>percabangan.html</item>
+        <item>perulangan.html</item>
+    </string-array>
+
+    <array name="VideoSubtitle">
+        <item>Algoritma Pemrograman</item>
+        <item>Perangkat Lunak Bahasa Pemrograman</item>
+        <item>Struktur Bahasa Pemrograman</item>
+        <item>Tipe Data Variabel dan Konstanta</item>
+        <item>Operasi Aritmatika dan Logika</item>
+        <item>Pernyataan Percabangan</item>
+        <item>Pernyataan Perulangan</item>
+    </array>
+
+    <array name="VideoDescription">
+        <item>Algoritma Pemrograman</item>
+        <item>Perangkat Lunak Bahasa Pemrograman</item>
+        <item>Struktur Bahasa Pemrograman</item>
+        <item>Tipe Data Variabel dan Konstanta</item>
+        <item>Operasi Aritmatika dan Logika</item>
+        <item>Pernyataan Percabangan</item>
+        <item>Pernyataan Perulangan</item>
+    </array>
+
+    <array name="VideoURL">
+        <item>cOh4ZLiPGRU</item>
+        <item>dugL0oYx0w0</item>
+        <item>Deo1A_eVWYU</item>
+        <item>MM2JLO6HFmY</item>
+        <item>ukz86PVf2oE</item>
+        <item>MYiwBjWFwMw</item>
+        <item>-wEjzVvG58w</item>
+    </array>
+
+    <array name="SoalQuiz1">
+        <item>Untuk mengatur tampilan dokumen dalam layar dapat menggunakan ...</item>
+        <item>Desain grafis komputer yang terdiri dari deretan atau kumpulan titik disebut ..</item>
+        <item>Untuk mengulang perintah pada dokumen CorelDraw disebut ...</item>
+        <item>PNG merupakan format gambar dengan jenis ..</item>
+        <item>Jenis image yang hanya mempunyai dua warna (hitam dan putih) disebut ...</item>
+    </array>
+
+    <array name="JawabanQuiz1">
+        <item>Zoom</item>
+        <item>Vector</item>
+        <item>Redo</item>
+        <item>Vector</item>
+        <item>Grayscale</item>
+    </array>
+</resources>

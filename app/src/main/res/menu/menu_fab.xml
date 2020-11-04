@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/messageFab"
+        android:title="@string/message"
+        />
+    <item
+        android:id="@+id/groupFab"
+        android:title="@string/group"
+        />
+</menu>
